@@ -9,4 +9,7 @@
 4) Reload or Restart the Server!
 HAVE FUN!
 
+## Support
+### https://discord.gg/BK8mnMdzxR
+
 ~ FrauJulian
