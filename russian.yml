@@ -1,0 +1,42 @@
+#    _____                              _____  _             _       
+#   / ____|                            |  __ \| |           (_)      
+#  | (___  _ __   __ ___      ___ __   | |__) | |_   _  __ _ _ _ __  
+#   \___ \| '_ \ / _` \ \ /\ / / '_ \  |  ___/| | | | |/ _` | | '_ \ 
+#   ____) | |_) | (_| |\ V  V /| | | | | |    | | |_| | (_| | | | | |
+#  |_____/| .__/ \__,_| \_/\_/ |_| |_| |_|    |_|\__,_|\__, |_|_| |_|
+#         | |                                           __/ |        
+#         |_|                                          |___/         
+# by FrauJulian
+#
+#Plugin Support via Discord!
+#https://discord.gg/BK8mnMdzxR
+#
+# Permissions:
+# "spawnplugin.setspawn" fpr /setspawn /ss
+# "spawnplugin.spawn" for /spawn /sp
+#
+#THIS PLUGIN SUPPORTS & COLOR CODES
+#PLACEHOLDER FOR JOIN MESSAGES = %player%
+#IF YOU SET COOLDOWNS OR COUNTDOWN TO 0, IT IS DEACTIVATED
+#TIME DATA ARE IN SECONDS
+#
+#MORE LANGUAGES ON GITHUB
+#https://github.com/FrauJulian/SpawnPluginFJ-languages/
+#
+#IF YOU EDITED THIS CONFIG BUT IT DOES NOT WORK AFTER RESTART YOU PROBABLY BROKE THE FORMAT
+#
+# Version: *.*-RELEASE
+
+join-message: "&8[&eSpawn&8] &aДобро пожаловать, %player%!"
+leave-message: "&8[&eSpawn&8] &cПока %player%!"
+countdown-time: 5
+spawn-countdown: "&8[&eSpawn&8] &eTeleporting in..."
+player-moves: "&8[&eSpawn&8] &cДействие отменено, вы переместились!"
+spawn-arrival: "&8[&eSpawn&8] &eДобро пожаловать в спаун!"
+cooldown-time: 60
+cooldown-message: "&8[&eSpawn&8] &cИзвините, вам придется подождать, пока команда снова не получит силу!"
+cooldown-color: "&e"
+spawn-set: "&8[&eSpawn&8] &eВы установили точку возрождения!"
+no-spawnpoint: "&8[&eSpawn&8] &cТочка возрождения еще не установлена!"
+no-permission: "&8[&eSpawn&8] &cУ вас нет прав на использование этой команды!"
+must-player: "&8[&eSpawn&8] &cВы должны быть игроком!"

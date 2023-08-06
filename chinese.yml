@@ -1,0 +1,42 @@
+#    _____                              _____  _             _       
+#   / ____|                            |  __ \| |           (_)      
+#  | (___  _ __   __ ___      ___ __   | |__) | |_   _  __ _ _ _ __  
+#   \___ \| '_ \ / _` \ \ /\ / / '_ \  |  ___/| | | | |/ _` | | '_ \ 
+#   ____) | |_) | (_| |\ V  V /| | | | | |    | | |_| | (_| | | | | |
+#  |_____/| .__/ \__,_| \_/\_/ |_| |_| |_|    |_|\__,_|\__, |_|_| |_|
+#         | |                                           __/ |        
+#         |_|                                          |___/         
+# by FrauJulian
+#
+#Plugin Support via Discord!
+#https://discord.gg/BK8mnMdzxR
+#
+# Permissions:
+# "spawnplugin.setspawn" fpr /setspawn /ss
+# "spawnplugin.spawn" for /spawn /sp
+#
+#THIS PLUGIN SUPPORTS & COLOR CODES
+#PLACEHOLDER FOR JOIN MESSAGES = %player%
+#IF YOU SET COOLDOWNS OR COUNTDOWN TO 0, IT IS DEACTIVATED
+#TIME DATA ARE IN SECONDS
+#
+#MORE LANGUAGES ON GITHUB
+#https://github.com/FrauJulian/SpawnPluginFJ-languages/
+#
+#IF YOU EDITED THIS CONFIG BUT IT DOES NOT WORK AFTER RESTART YOU PROBABLY BROKE THE FORMAT
+#
+# Version: *.*-RELEASE
+
+join-message: "&8[&eSpawn&8] &a欢迎%玩家%"
+leave-message: "&8[&eSpawn&8] &e再见 %player%"
+countdown-time: 5
+spawn-countdown: "&8[&eSpawn&8] &e传送到..."
+player-moves: "&8[&eSpawn&8] &c行动 取消，你移动了!"
+spawn-arrival: "&8[&eSpawn&8] &e欢迎生成"
+cooldown-time: 60
+Cooldown-message: "&8[&eSpawn&8] &c抱歉, 您必须等待命令再次生效!"
+cooldown-color: "&e"
+spawn-set: "&8[&eSpawn&8] &e生成点 已设置!"
+no-spawnpoint: "&8[&eSpawn&8] &c尚未设置生成点!"
+no-permission: "&8[&eSpawn&8] &c您没有执行此命令的权限!"
+Must-player: "&8[&eSpawn&8] &c你必须是一名玩家!"
