@@ -33,6 +33,8 @@ countdown-time: 5
 spawn-countdown: "&8[&eSpawn&8] &eTeleporting in..."
 player-moves: "&8[&eSpawn&8] &cAction canceled, you moved!"
 spawn-arrival: "&8[&eSpawn&8] &eWelcome to the Spawn!"
+back-arrival: "&8[&eSpawn&8] &eYou have been teleported!"
+no-back-data: "&8[&eSpawn&8] &cNo data found for this command!"
 cooldown-time: 60
 cooldown-message: "&8[&eSpawn&8] &cSorry, you have to wait until the command has power again!"
 cooldown-color: "&e"
