@@ -1,13 +1,7 @@
 # 📻 SynRadio.de
 
-**How to install other languages to the SpawnPluginFJ?**
+## Lets translate together, just fork it!
 
-### 💪🏻 Install other languages!
-
-**1) Copy your language!**
-<br />
-**2) Go to `./plugins/SpawnPluginFJ/config.js` and paste your language in it.**
-<br />
-**3) Restart Server! Done!**
+**These are all translations from my minecraft SpawnPluginFJ plugin. This plugin is available on SpigotMC!**
 
 ## ~ FrauJulian
